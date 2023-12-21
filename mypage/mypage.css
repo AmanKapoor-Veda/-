@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body{
+    background-color: darkgoldenrod;
+}
+
+h1{
+    color: rgb(45, 113, 240);
+}
+
+p{
+    color:rgb(255, 255, 255);
+}
